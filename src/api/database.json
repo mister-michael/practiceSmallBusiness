@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "john",
+      "departmentId": 2,
+      "computerId": 3
+    },
+    {
+      "id": 2,
+      "name": "jilly-bean",
+      "departmentId": 1,
+      "computerId": 2
+    },
+    {
+      "id": 3,
+      "name": "mohatma",
+      "departmentId": 1,
+      "computerId": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "department": "tires"
+    },
+    {
+      "id": 2,
+      "department": "nails"
+    },
+    {
+      "id": 3,
+      "department": "police-chase-videos"
+    }
+  ],
+  "computers": [
+    {
+      "id":  1,
+      "computer": "apple"
+    },
+    {
+      "id":  2,
+      "computer": "dell, dude"
+    },
+    {
+      "id":  3,
+      "computer": "the chess one"
+    }
+  ]
+}
